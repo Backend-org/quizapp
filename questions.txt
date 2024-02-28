@@ -1,0 +1,500 @@
+
+Question 1:
+What is the purpose of a constructor in Java?
+A. To create objects
+B. To initialize class variables
+C. To destroy objects
+D. To declare methods
+Correct Answer: A
+Category: JAVA
+Difficulty: ENTRY
+
+Question 2:
+Which of the following is true about the 'this' keyword in Java?
+A. It refers to the current class object
+B. It refers to the previous class object
+C. It refers to the parent class object
+D. It refers to the child class object
+Correct Answer: A
+Category: JAVA
+Difficulty: ENTRY
+
+Question 3:
+What is Dependency Injection in Spring?
+A. A design pattern used to separate concerns
+B. A technique to inject dependencies into objects
+C. A feature for automatic memory management
+D. A type of exception handling mechanism
+Correct Answer: B
+Category: SPRING
+Difficulty: ENTRY
+
+Question 4:
+"In Android, what is the purpose of a Fragment?"
+A. To represent a portion of user interface in an Activity
+B. To handle background tasks
+C. To manage database operations
+D. To define the layout of an application
+Correct Answer: A
+Category: ANDROID
+Difficulty: ENTRY
+
+Question 5:
+What is the purpose of Storyboard in iOS development?
+A. To write Swift code
+B. To design user interface visually
+C. To handle network requests
+D. To manage application settings
+Correct Answer: B
+Category: IOS
+Difficulty: ENTRY
+
+Question 6:
+Which of the following is a non-blocking I/O model in Node.js?
+A. Synchronous I/O
+B. Asynchronous I/O
+C. Blocking I/O
+D. Sequential I/O
+Correct Answer: B
+Category: NODE_JS
+Difficulty: ENTRY
+
+Question 7:
+What is the purpose of the 'yield' keyword in Python?
+A. To exit a loop
+B. To generate a sequence of values lazily
+C. To raise an exception
+D. To define a generator function
+Correct Answer: B
+Category: PYTHON
+Difficulty: ENTRY
+
+Question 8:
+"In machine learning, what does SVM stand for?"
+A. Support Vector Machine
+B. Simple Variable Model
+C. Stochastic Variance Maximization
+D. Supervised Verification Method
+Correct Answer: A
+Category: ML
+Difficulty: ENTRY
+
+Question 9:
+What is the time complexity of a binary search algorithm?
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(1)
+Correct Answer: B
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 10:
+"Which data structure uses LIFO (Last In, First Out) ordering?"
+A. Queue
+B. Stack
+C. Linked List
+D. Tree
+Correct Answer: B
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 11:
+What is the purpose of the 'super' keyword in Java?
+A. To call the constructor of the superclass
+B. To access static methods of the superclass
+C. To define the superclass of a class
+D. To override a method in the superclass
+Correct Answer: A
+Category: JAVA
+Difficulty: INTERMEDIATE
+
+Question 12:
+"In Java, what is a static method?"
+A. A method that can access instance variables
+B. A method that can be overridden in subclasses
+C. A method that belongs to the class rather than any object of the class
+D. A method that cannot be called directly
+Correct Answer: C
+Category: JAVA
+Difficulty: INTERMEDIATE
+
+Question 13:
+What is the role of an Activity in Android?
+A. To perform background tasks
+B. To manage navigation between different screens or user interface elements
+C. To handle database operations
+D. To define the layout of an application
+Correct Answer: B
+Category: ANDROID
+Difficulty: INTERMEDIATE
+
+Question 14:
+Which programming language is primarily used for iOS app development?
+A. Java
+B. Swift
+C. Kotlin
+D. Objective-C
+Correct Answer: B
+Category: IOS
+Difficulty: ENTRY
+
+Question 15:
+What is event-driven programming in Node.js?
+A. A programming paradigm where the flow of the program is determined by events such as user actions or messages from other programs
+B. A programming language used for scripting
+C. A method for handling exceptions
+D. A technique for optimizing memory usage
+Correct Answer: A
+Category: NODE_JS
+Difficulty: INTERMEDIATE
+
+Question 16:
+What is the purpose of the 'self' parameter in Python class methods?
+A. To refer to the current instance of the class
+B. To call another method in the class
+C. To declare a static method
+D. To access class variables directly
+Correct Answer: A
+Category: PYTHON
+Difficulty: ENTRY
+
+Question 17:
+Which of the following is a supervised learning algorithm in machine learning?
+A. K-means clustering
+B. Decision Tree
+C. K-nearest neighbors
+D. Principal Component Analysis
+Correct Answer: B
+Category: ML
+Difficulty: INTERMEDIATE
+
+Question 18:
+What is the space complexity of a bubble sort algorithm?
+A. O(n)
+B. O(n log n)
+C. O(1)
+D. O(n^2)
+Correct Answer: C
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 19:
+What is the primary difference between a stack and a queue?
+"A. Stack follows LIFO (Last In, First Out) while Queue follows FIFO (First In, First Out)"
+B. Queue follows LIFO while Stack follows FIFO
+C. Stack allows random access while Queue does not
+D. Queue allows random access while Stack does not
+Correct Answer: A
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 20:
+What is the purpose of a hash table in data structures?
+A. To store data in sorted order
+"B. To perform quick searches, insertions, and deletions"
+C. To implement recursive algorithms
+D. To sort data efficiently
+Correct Answer: B
+Category: DATA_STRUCTURE
+Difficulty: INTERMEDIATE
+
+Question 21:
+What does MVC stand for in the context of software architecture?
+A. Model View Converter
+B. Model View Controller
+C. Model Visual Component
+D. Model View Composer
+Correct Answer: B
+Category: SOFTWARE_ARCHITECTURE
+Difficulty: INTERMEDIATE
+
+Question 22:
+What is the primary role of a controller in the MVC architectural pattern?
+A. To manage the data of the application
+B. To define the user interface layout
+C. To handle user input and update the model accordingly
+D. To render the visual representation of data
+Correct Answer: C
+Category: SOFTWARE_ARCHITECTURE
+Difficulty: INTERMEDIATE
+
+Question 23:
+Which of the following statements is true about RESTful APIs?
+A. They are stateful
+B. They are designed for high performance only
+C. They follow a client-server architecture
+D. They are primarily used for desktop applications
+Correct Answer: C
+Category: SOFTWARE_DEVELOPMENT
+Difficulty: INTERMEDIATE
+
+Question 24:
+What does JSON stand for?
+A. JavaScript Object Notation
+B. Java Serialized Object Notation
+C. JavaScript Oriented Numerical
+D. Java Stringified Object Notation
+Correct Answer: A
+Category: SOFTWARE_DEVELOPMENT
+Difficulty: ENTRY
+
+Question 25:
+What is the purpose of a foreign key in a relational database?
+A. To uniquely identify each record in a table
+B. To establish a relationship between two tables
+C. To define the primary key of a table
+D. To improve database performance
+Correct Answer: B
+Category: DATABASE_MANAGEMENT
+Difficulty: INTERMEDIATE
+
+Question 26:
+Which of the following sorting algorithms has the best average-case time complexity?
+A. Bubble Sort
+B. Insertion Sort
+C. Merge Sort
+D. Selection Sort
+Correct Answer: C
+Category: ALGORITHMS
+Difficulty: INTERMEDIATE
+
+Question 27:
+What is the purpose of a try-except block in Python?
+A. To define a loop
+B. To handle exceptions
+C. To declare a function
+D. To implement recursion
+Correct Answer: B
+Category: PYTHON
+Difficulty: ENTRY
+
+Question 28:
+"In object-oriented programming, what is inheritance?"
+A. A mechanism to access private members of a class
+B. A way to hide implementation details
+C. A feature to define multiple methods with the same name
+D. A mechanism to create a new class based on an existing class
+Correct Answer: D
+Category: OBJECT_ORIENTED_PROGRAMMING
+Difficulty: INTERMEDIATE
+
+Question 29:
+What is the purpose of a linked list in data structures?
+A. To store data in a sorted manner
+B. To implement recursion
+C. To manage memory allocation
+D. To store data sequentially using pointers
+Correct Answer: D
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 30:
+What does CRUD stand for in the context of database operations?
+"A. Create, Read, Update, Destroy"
+"B. Copy, Read, Update, Delete"
+"C. Compile, Read, Update, Deploy"
+"D. Compute, Read, Update, Debug"
+Correct Answer: A
+Category: DATABASE_MANAGEMENT
+Difficulty: ENTRY
+
+Question 31:
+What is the purpose of a semaphore in concurrent programming?
+A. To control access to a shared resource by multiple threads
+B. To convert binary code into decimal code
+C. To allocate memory dynamically
+D. To manage database transactions
+Correct Answer: A
+Category: CONCURRENT_PROGRAMMING
+Difficulty: INTERMEDIATE
+
+Question 32:
+Which of the following is a benefit of using version control systems like Git?
+A. Improved performance of code execution
+B. Ability to track changes and collaborate with other developers
+C. Automatic bug fixing
+D. Enhanced user interface design
+Correct Answer: B
+Category: VERSION_CONTROL
+Difficulty: INTERMEDIATE
+
+Question 33:
+What is the purpose of a break statement in programming languages like Java and Python?
+A. To terminate the program execution immediately
+B. To exit from the current loop or switch statement
+C. To resume the execution from the next iteration of the loop
+D. To skip the current iteration of the loop
+Correct Answer: B
+Category: PROGRAMMING_LANGUAGES
+Difficulty: INTERMEDIATE
+
+Question 34:
+Which data structure is typically used to implement a queue?
+A. Array
+B. Linked List
+C. Stack
+D. Hash Table
+Correct Answer: B
+Category: DATA_STRUCTURE
+Difficulty: ENTRY
+
+Question 35:
+What is the purpose of the 'elif' keyword in Python?
+A. To represent a conditional statement in Python
+B. To define a block of code that executes if the condition is false
+C. To check multiple conditions in sequence
+D. To define a loop in Python
+Correct Answer: C
+Category: PYTHON
+Difficulty: ENTRY
+
+Question 36:
+"In machine learning, what is overfitting?"
+A. When the model performs well on unseen data
+B. When the model captures noise in the training data and performs poorly on unseen data
+C. When the model is too simple to capture the underlying patterns in the data
+D. When the model converges to a local minimum during training
+Correct Answer: B
+Category: MACHINE_LEARNING
+Difficulty: INTERMEDIATE
+
+Question 37:
+What is the purpose of a constructor in object-oriented programming?
+A. To initialize class variables
+B. To define methods of a class
+C. To allocate memory for objects
+D. To manage database connections
+Correct Answer: A
+Category: OBJECT_ORIENTED_PROGRAMMING
+Difficulty: ENTRY
+
+Question 38:
+Which of the following is NOT a fundamental data type in Python?
+A. int
+B. float
+C. char
+D. str
+Correct Answer: C
+Category: PYTHON
+Difficulty: INTERMEDIATE
+
+Question 39:
+What is the purpose of the 'map' function in Python?
+A. To create a new list by applying a function to each element of an existing list
+B. To merge two dictionaries into one
+C. To remove duplicate elements from a list
+D. To sort a list in ascending order
+Correct Answer: A
+Category: PYTHON
+Difficulty: ENTRY
+
+Question 40:
+Which of the following is a key feature of functional programming?
+A. Mutability of data
+B. Emphasis on loops and iterations
+C. Use of side effects
+D. Use of higher-order functions
+Correct Answer: D
+Category: FUNCTIONAL_PROGRAMMING
+Difficulty: INTERMEDIATE
+
+Question 41:
+What is the purpose of the 'finally' block in Java exception handling?
+A. To handle exceptions
+B. To define a default case
+C. To execute code regardless of whether an exception occurred or not
+D. To terminate the program
+Correct Answer: C
+Category: JAVA
+Difficulty: INTERMEDIATE
+
+Question 42:
+What is the significance of the '@Override' annotation in Java?
+A. It indicates that a method is static
+B. It indicates that a method overrides a superclass method
+C. It marks a method as private
+D. It marks a method as final
+Correct Answer: B
+Category: JAVA
+Difficulty: INTERMEDIATE
+
+Question 43:
+What is the purpose of the 'autowiring' feature in Spring Framework?
+A. To automatically manage database connections
+B. To inject dependencies into Spring beans automatically
+C. To generate API documentation automatically
+D. To configure logging automatically
+Correct Answer: B
+Category: SPRING
+Difficulty: INTERMEDIATE
+
+Question 44:
+"In Android, what is the role of the Intent class?"
+A. To represent a single task in the application
+B. To define the layout of the user interface
+C. To handle communication between components
+D. To manage background services
+Correct Answer: C
+Category: ANDROID
+Difficulty: INTERMEDIATE
+
+Question 45:
+What is the purpose of Interface Builder in iOS development?
+A. To write Objective-C code
+B. To design user interface visually
+C. To manage device permissions
+D. To test application performance
+Correct Answer: B
+Category: IOS
+Difficulty: ENTRY
+
+Question 46:
+Which of the following is NOT a built-in module in Node.js?
+A. fs
+B. http
+C. path
+D. zip
+Correct Answer: D
+Category: NODE_JS
+Difficulty: INTERMEDIATE
+
+Question 47:
+What is the purpose of a list comprehension in Python?
+A. To create a list based on existing lists or iterators
+B. To remove duplicate elements from a list
+C. To convert a list into a dictionary
+D. To perform arithmetic operations on lists
+Correct Answer: A
+Category: PYTHON
+Difficulty: INTERMEDIATE
+
+Question 48:
+"In machine learning, what is cross-validation used for?"
+A. To train the model on a small dataset
+B. To test the model's performance on unseen data
+C. To validate the model's performance on the training data
+D. To select the best model hyperparameters
+Correct Answer: D
+Category: MACHINE_LEARNING
+Difficulty: INTERMEDIATE
+
+Question 49:
+"What is the time complexity of a binary tree traversal (e.g., inorder traversal)?"
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(1)
+Correct Answer: A
+Category: DATA_STRUCTURE
+Difficulty: INTERMEDIATE
+
+Question 50:
+What is the purpose of an index in a database?
+A. To sort records alphabetically
+B. To enforce data integrity
+C. To optimize query performance
+D. To encrypt sensitive data
+Correct Answer: C
+Category: DATABASE_MANAGEMENT
+Difficulty: INTERMEDIATE
